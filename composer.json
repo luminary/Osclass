@@ -16,7 +16,6 @@
        "optimize-autoloader": true
     },
   "require": {
-    "php": ">=5.6.20",
     "ext-json": "*",
     "ext-openssl": "*",
     "ext-mysqli": "*",
@@ -24,6 +23,7 @@
     "ext-curl": "*",
     "ext-posix": "*",
     "ext-fileinfo": "*",
+    "ext-gd": "*",
     "ezyang/htmlpurifier": "4.11.x",
     "phpmailer/phpmailer": "5.2.x",
     "pclzip/pclzip": "2.8.2",
